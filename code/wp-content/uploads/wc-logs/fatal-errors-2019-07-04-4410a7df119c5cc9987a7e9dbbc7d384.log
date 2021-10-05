@@ -1,0 +1,4 @@
+2019-07-04T13:22:17+00:00 CRITICAL Call to undefined function request_filesystem_credentials() in /home/shopbh/domains/shopbanhang.net/public_html/antien/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+
+2019-07-04T21:12:31+00:00 CRITICAL Call to undefined function request_filesystem_credentials() in /home/shopbh/domains/shopbanhang.net/public_html/antien/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+

@@ -1,0 +1,6 @@
+2019-07-05T03:19:56+00:00 CRITICAL Call to undefined function the_privacy_policy_link() in /home/shopbh/domains/shopbanhang.net/public_html/antien/wp-login.php on line 256
+
+2019-07-05T18:39:11+00:00 CRITICAL Call to undefined function request_filesystem_credentials() in /home/shopbh/domains/shopbanhang.net/public_html/antien/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+
+2019-07-05T22:56:46+00:00 CRITICAL Call to undefined function request_filesystem_credentials() in /home/shopbh/domains/shopbanhang.net/public_html/antien/wp-admin/includes/class-wp-upgrader-skin.php on line 93
+
